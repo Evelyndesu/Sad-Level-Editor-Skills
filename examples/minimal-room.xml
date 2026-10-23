@@ -1,0 +1,10 @@
+<!-- 一间能走进去的小屋。玩家走到中间会看到提示。在编辑器里直接打开。 -->
+<player uid="#player" x="40" y="-1" tox="0" toy="0" hea="130" hmax="130" team="0" side="1" char="1" incar="-1" botaction="0" ondeath="-1" />
+<enemy uid="#enemy" x="240" y="-1" tox="0" toy="0" hea="130" hmax="130" team="1" side="-1" char="2" incar="-1" botaction="0" ondeath="-1" />
+<box x="-40" y="-200" w="40" h="240" m="0" />
+<box x="320" y="-200" w="40" h="240" m="0" />
+<box x="-40" y="-200" w="400" h="40" m="0" />
+<box x="-40" y="0" w="400" h="40" m="0" />
+<region uid="#room-mid" x="140" y="-80" w="40" h="80" use_target="#on-enter" use_on="6" />
+<trigger uid="#on-enter" x="140" y="-80" enabled="true" maxcalls="1" actions_1_type="43" actions_1_targetA="Entered the room" actions_1_targetB="0" />
+<inf x="40" y="-40" mark="hero1_guns" forteam="0" />

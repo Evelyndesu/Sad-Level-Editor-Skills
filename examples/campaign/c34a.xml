@@ -1,0 +1,118 @@
+<player x="600" y="341" tox="0" toy="-10" hea="100" hmax="100" team="0" side="1" char="3" incar="-1" botaction="0" ondeath="-1" />
+<bg x="-1380" y="-900" w="3440" h="1400" m="0" />
+<box x="-210" y="0" w="710" h="900" m="0" />
+<box x="700" y="0" w="1800" h="900" m="0" />
+<box x="200" y="-40" w="200" h="140" m="0" />
+<box x="850" y="-40" w="150" h="140" m="0" />
+<box x="200" y="-340" w="200" h="140" m="0" />
+<box x="800" y="-340" w="200" h="140" m="0" />
+<box x="100" y="-400" w="470" h="160" m="0" />
+<box x="630" y="-400" w="470" h="160" m="0" />
+<box x="500" y="-450" w="200" h="130" m="0" />
+<lamp x="410" y="-230" power="0.4" flare="1" />
+<pushf x="530" y="70" w="140" h="830" tox="0" toy="-1" stab="0" damage="0" />
+<inf x="600" y="320" mark="hero2_guns" forteam="0" />
+<lamp x="410" y="-10" power="0.4" flare="1" />
+<lamp x="790" y="-10" power="0.4" flare="1" />
+<lamp x="790" y="-230" power="0.4" flare="1" />
+<lamp x="600" y="-310" power="0.4" flare="1" />
+<region x="450" y="-170" w="300" h="150" use_target="0" use_on="6" />
+<trigger enabled="true" maxcalls="1" actions_1_type="0" actions_1_targetA="0" actions_1_targetB="1" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<door x="700" y="10" w="200" h="60" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" />
+<region x="500" y="10" w="200" h="60" use_target="-1" use_on="4" />
+<enemy x="640" y="591" tox="0" toy="-10" hea="0" hmax="0" team="1" side="1" char="2" incar="-1" botaction="0" ondeath="-1" />
+<box x="1700" y="-460" w="800" h="860" m="0" />
+<box x="-2000" y="300" w="2000" h="600" m="0" />
+<box x="-2000" y="0" w="1200" h="500" m="0" />
+<box x="-2000" y="-400" w="900" h="450" m="0" />
+<water x="-800" y="100" w="590" h="200" damage="1000" />
+<box x="-300" y="-400" w="200" h="160" m="0" />
+<box x="-790" y="-350" w="950" h="90" m="0" />
+<box x="-980" y="-320" w="230" h="40" m="0" />
+<box x="-1350" y="-1100" w="850" h="500" m="0" />
+<box x="-600" y="-1100" w="1400" h="400" m="0" />
+<box x="-2000" y="-1100" w="800" h="800" m="0" />
+<decor x="-1040" y="0" model="antigravity0" at="-1" addx="0" addy="0" />
+<door x="-1100" y="-10" w="110" h="10" moving="false" tarx="0" tary="0" maxspeed="1" vis="false" />
+<decor x="-600" y="300" model="antigravity0" at="-1" addx="0" addy="0" />
+<decor x="-400" y="300" model="antigravity0" at="-1" addx="0" addy="0" />
+<region x="-470" y="-100" w="140" h="200" use_target="1" use_on="1" />
+<region x="-670" y="-100" w="140" h="200" use_target="2" use_on="1" />
+<pushf x="-700" y="-60" w="200" h="360" tox="0" toy="0" stab="0" damage="0" />
+<pushf x="-500" y="-60" w="200" h="360" tox="0" toy="0" stab="0" damage="0" />
+<trigger enabled="true" maxcalls="1" actions_1_type="36" actions_1_targetA="2" actions_1_targetB="-1" actions_2_type="34" actions_2_targetA="2" actions_2_targetB="antigravity" actions_3_type="36" actions_3_targetA="4" actions_3_targetB="-1" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<trigger enabled="true" maxcalls="1" actions_1_type="36" actions_1_targetA="1" actions_1_targetB="-1" actions_2_type="34" actions_2_targetA="1" actions_2_targetB="antigravity" actions_3_type="36" actions_3_targetA="3" actions_3_targetB="-1" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<pushf x="-700" y="0" w="200" h="300" tox="0" toy="0" stab="0" damage="0" />
+<pushf x="-500" y="0" w="200" h="300" tox="0" toy="0" stab="0" damage="0" />
+<lamp x="-600" y="0" power="0.2" flare="0" />
+<lamp x="-400" y="0" power="0.2" flare="0" />
+<box x="-1100" y="-500" w="120" h="60" m="0" />
+<barrel x="-970" y="-20" model="bar_red" tox="0" toy="0" />
+<region x="-1100" y="-130" w="110" h="140" use_target="3" use_on="1" />
+<pushf x="-1100" y="-340" w="110" h="330" tox="0" toy="0" stab="0" damage="0" />
+<trigger enabled="true" maxcalls="1" actions_1_type="36" actions_1_targetA="5" actions_1_targetB="-1" actions_2_type="34" actions_2_targetA="0" actions_2_targetB="antigravity" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<barrel x="-870" y="-20" model="bar_red" tox="0" toy="0" />
+<barrel x="-1090" y="-30" model="bar_red" tox="0" toy="0" />
+<barrel x="-1060" y="-30" model="bar_red" tox="0" toy="0" />
+<barrel x="-1030" y="-30" model="bar_red" tox="0" toy="0" />
+<barrel x="-570" y="280" model="bar_red" tox="0" toy="0" />
+<barrel x="-540" y="280" model="bar_red" tox="0" toy="0" />
+<barrel x="-450" y="280" model="bar_red" tox="0" toy="0" />
+<barrel x="-360" y="280" model="bar_red" tox="0" toy="0" />
+<door x="270" y="-210" w="60" h="180" moving="false" tarx="0" tary="0" maxspeed="10" vis="true" />
+<region x="270" y="-370" w="60" h="180" use_target="-1" use_on="4" />
+<trigger enabled="true" maxcalls="1" actions_1_type="0" actions_1_targetA="2" actions_1_targetB="5" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<region x="1590" y="-190" w="100" h="200" use_target="4" use_on="1" />
+<door x="1080" y="-300" w="630" h="50" moving="false" tarx="0" tary="0" maxspeed="60" vis="true" />
+<barrel x="1120" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1190" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1310" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1270" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1410" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1460" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1480" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1440" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1340" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1230" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1160" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1140" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1380" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1360" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1510" y="-320" model="bar_red" tox="0" toy="0" />
+<region x="1080" y="-290" w="630" h="50" use_target="7" use_on="5" />
+<region x="1300" y="-270" w="200" h="280" use_target="5" use_on="6" />
+<trigger enabled="true" maxcalls="1" actions_1_type="0" actions_1_targetA="3" actions_1_targetB="7" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<box x="910" y="-460" w="960" h="110" m="0" />
+<lamp x="-400" y="-670" power="0.4" flare="1" />
+<lamp x="800" y="-410" power="0.4" flare="1" />
+<box x="750" y="-1100" w="1750" h="460" m="0" />
+<bg x="330" y="500" w="520" h="400" m="0" />
+<box x="800" y="-100" w="100" h="200" m="0" />
+<decor x="1200" y="0" model="antigravity0" at="-1" addx="0" addy="0" />
+<decor x="1500" y="0" model="antigravity0" at="-1" addx="0" addy="0" />
+<decor x="1350" y="0" model="antigravity0" at="-1" addx="0" addy="0" />
+<door x="1140" y="-10" w="120" h="30" moving="false" tarx="0" tary="0" maxspeed="1" vis="false" />
+<door x="1290" y="-10" w="120" h="30" moving="false" tarx="0" tary="0" maxspeed="1" vis="false" />
+<door x="1440" y="-10" w="120" h="30" moving="false" tarx="0" tary="0" maxspeed="1" vis="false" />
+<bg x="2060" y="-800" w="440" h="500" m="0" />
+<region x="1200" y="-710" w="1300" h="310" use_target="6" use_on="6" />
+<trigger enabled="true" maxcalls="1" actions_1_type="7" actions_1_targetA="2" actions_1_targetB="c35a" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<pushf x="1620" y="-360" w="90" h="70" tox="-1" toy="0" stab="0" damage="0" />
+<pushf x="1640" y="-370" w="80" h="80" tox="-4" toy="0" stab="0" damage="0" />
+<pushf x="1660" y="-380" w="70" h="90" tox="-10" toy="0" stab="0" damage="0" />
+<barrel x="-30" y="-370" model="bar_red" tox="0" toy="0" />
+<barrel x="10" y="-370" model="bar_red" tox="0" toy="0" />
+<barrel x="70" y="-370" model="bar_red" tox="0" toy="0" />
+<barrel x="30" y="-370" model="bar_red" tox="0" toy="0" />
+<barrel x="900" y="-420" model="bar_red" tox="0" toy="0" />
+<barrel x="880" y="-420" model="bar_red" tox="0" toy="0" />
+<barrel x="860" y="-420" model="bar_red" tox="0" toy="0" />
+<barrel x="830" y="-420" model="bar_red" tox="0" toy="0" />
+<barrel x="-1120" y="-420" model="bar_red" tox="0" toy="0" />
+<barrel x="-1140" y="-420" model="bar_red" tox="0" toy="0" />
+<barrel x="1540" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1580" y="-320" model="bar_red" tox="0" toy="0" />
+<barrel x="1600" y="-320" model="bar_red" tox="0" toy="0" />
+<region x="1690" y="-290" w="630" h="50" use_target="-1" use_on="5" />
+<trigger enabled="true" maxcalls="1" actions_1_type="0" actions_1_targetA="3" actions_1_targetB="10" actions_2_type="36" actions_2_targetA="9" actions_2_targetB="0.1" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<pushf x="1090" y="-360" w="530" h="50" tox="0" toy="0" stab="0" damage="0" />

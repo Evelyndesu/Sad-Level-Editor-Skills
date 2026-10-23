@@ -1,0 +1,81 @@
+<player x="-2080" y="-99" tox="0" toy="0" hea="100" hmax="100" team="0" side="1" char="1" incar="-1" botaction="0" ondeath="-1" />
+<bg x="-1810" y="-100" w="1310" h="490" m="0" />
+<inf x="-2080" y="-120" mark="hero1_guns" forteam="0" />
+<inf x="-1910" y="-150" mark="sky" forteam="2" />
+<box x="-3000" y="-100" w="1300" h="800" m="0" />
+<box x="-3500" y="-400" w="900" h="1100" m="0" />
+<box x="-600" y="-100" w="900" h="800" m="0" />
+<box x="-1900" y="300" w="1500" h="400" m="0" />
+<box x="-1500" y="-400" w="100" h="500" m="0" />
+<box x="-1200" y="-400" w="100" h="200" m="0" />
+<box x="-900" y="-400" w="100" h="500" m="0" />
+<pushf x="-1700" y="-100" w="100" h="400" tox="0" toy="-0.6" stab="0" damage="0" />
+<pushf x="-700" y="-100" w="100" h="400" tox="0" toy="-0.6" stab="0" damage="0" />
+<box x="-1500" y="250" w="200" h="150" m="0" />
+<box x="-1200" y="200" w="100" h="200" m="0" />
+<box x="-1000" y="250" w="200" h="150" m="0" />
+<box x="-1000" y="50" w="160" h="50" m="0" />
+<box x="-1460" y="50" w="160" h="50" m="0" />
+<enemy x="-300" y="-359" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<enemy x="-20" y="-359" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<enemy x="-920" y="51" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy x="-1370" y="51" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy x="-720" y="301" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy x="-950" y="251" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<enemy x="-1380" y="251" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-1" botaction="0" ondeath="-1" />
+<gun x="-1380" y="30" model="gun_real_rifle" command="-1" upg="0" />
+<gun x="-910" y="30" model="gun_real_rifle" command="-1" upg="0" />
+<gun x="-950" y="220" model="gun_real_rifle" command="-1" upg="0" />
+<gun x="-710" y="270" model="gun_real_rifle" command="-1" upg="0" />
+<gun x="-1380" y="220" model="gun_real_rifle" command="-1" upg="0" />
+<gun x="-1380" y="40" model="gun_rl" command="-1" upg="0" />
+<gun x="-910" y="40" model="gun_rl" command="-1" upg="0" />
+<gun x="-950" y="230" model="gun_rl" command="-1" upg="0" />
+<gun x="-1380" y="230" model="gun_rl" command="-1" upg="0" />
+<gun x="-710" y="280" model="gun_rl" command="-1" upg="0" />
+<gun x="-950" y="210" model="gun_railgun2" command="1" upg="2" />
+<vehicle x="-2360" y="-500" side="1" model="veh_capsule" tox="0" toy="30" hpp="100" />
+<vehicle x="-2200" y="-500" side="1" model="veh_capsule" tox="0" toy="20" hpp="100" />
+<enemy x="-2360" y="-459" tox="0" toy="0" hea="350" hmax="350" team="1" side="1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<enemy x="-2200" y="-459" tox="0" toy="0" hea="350" hmax="350" team="1" side="1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<gun x="-2200" y="-490" model="gun_railgun2" command="1" upg="2" />
+<gun x="-2360" y="-490" model="gun_railgun2" command="1" upg="2" />
+<barrel x="-1580" y="280" model="bar_orange" tox="0" toy="0" />
+<barrel x="-1530" y="280" model="bar_orange" tox="0" toy="0" />
+<barrel x="-1730" y="-120" model="bar_orange" tox="0" toy="0" />
+<barrel x="-2500" y="-120" model="bar_orange" tox="0" toy="0" />
+<barrel x="-2560" y="-120" model="bar_orange" tox="0" toy="0" />
+<vehicle x="-300" y="-400" side="1" model="veh_capsule" tox="0" toy="20" hpp="100" />
+<vehicle x="-20" y="-400" side="1" model="veh_capsule" tox="0" toy="20" hpp="100" />
+<gun x="-290" y="-390" model="gun_railgun2" command="1" upg="2" />
+<gun x="-10" y="-390" model="gun_railgun2" command="1" upg="2" />
+<box x="500" y="-100" w="500" h="800" m="0" />
+<box x="200" y="-360" w="500" h="100" m="0" />
+<box x="600" y="-490" w="900" h="1190" m="0" />
+<box x="90" y="-160" w="130" h="120" m="0" />
+<pushf x="-3000" y="-1310" w="400" h="910" tox="2" toy="0" stab="100" damage="0" />
+<bg x="200" y="-310" w="530" h="1010" m="0" />
+<lamp x="100" y="-280" power="1" flare="0" />
+<enemy x="240" y="-99" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<gun x="250" y="-110" model="gun_plasmagun" command="1" upg="3" />
+<enemy x="530" y="-99" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<enemy x="570" y="-99" tox="0" toy="0" hea="350" hmax="350" team="1" side="-1" char="8" incar="-2" botaction="0" ondeath="-1" />
+<gun x="530" y="-110" model="gun_plasmagun" command="1" upg="3" />
+<gun x="570" y="-110" model="gun_plasmagun" command="1" upg="3" />
+<region x="300" y="200" w="200" h="500" use_target="0" use_on="6" />
+<trigger enabled="true" maxcalls="1" actions_1_type="7" actions_1_targetA="1" actions_1_targetB="c24a" actions_2_type="-1" actions_2_targetA="0" actions_2_targetB="0" actions_3_type="-1" actions_3_targetA="0" actions_3_targetB="0" actions_4_type="-1" actions_4_targetA="0" actions_4_targetB="0" actions_5_type="-1" actions_5_targetA="0" actions_5_targetB="0" actions_6_type="-1" actions_6_targetA="0" actions_6_targetB="0" actions_7_type="-1" actions_7_targetA="0" actions_7_targetB="0" actions_8_type="-1" actions_8_targetA="0" actions_8_targetB="0" actions_9_type="-1" actions_9_targetA="0" actions_9_targetB="0" actions_10_type="-1" actions_10_targetA="0" actions_10_targetB="0" />
+<bg x="-1500" y="-400" w="700" h="300" m="0" />
+<lamp x="-1400" y="-600" power="1" flare="0" />
+<lamp x="-1150" y="-600" power="1" flare="0" />
+<lamp x="-900" y="-600" power="1" flare="0" />
+<lamp x="-1650" y="-600" power="1" flare="0" />
+<lamp x="-650" y="-600" power="1" flare="0" />
+<lamp x="-400" y="-600" power="1" flare="0" />
+<lamp x="-1900" y="-600" power="1" flare="0" />
+<decor x="-1650" y="300" model="antigravity" at="-1" addx="0" addy="0" />
+<decor x="-650" y="300" model="antigravity" at="-1" addx="0" addy="0" />
+<lamp x="-650" y="290" power="0.4" flare="0" />
+<lamp x="-1650" y="290" power="0.4" flare="0" />
+<pushf x="-350" y="-470" w="380" h="160" tox="0" toy="0.1" stab="0" damage="0" />
+<pushf x="800" y="-1580" w="700" h="680" tox="-2" toy="0" stab="100" damage="0" />
+<box x="800" y="-900" w="700" h="840" m="0" />
