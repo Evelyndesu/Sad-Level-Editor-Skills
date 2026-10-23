@@ -1,5 +1,11 @@
 [English](README.md) | **中文**
 
+Sad Burst 2 网站：https://sadburst2.com
+
+Sad Burst 2 地图编辑器：https://sadburst2.com/map_editor/
+
+你可以在 Sad Burst 2 地图编辑器中更方便地编辑地图，比如通过地图代码导入/导出地图，账号同步等。
+
 # Sad Level Editor
 
 给 AI agent 用的技能，用来编写、修改和修复 **Sad Burst 2 / Plazma Burst 2** 的地图 XML。

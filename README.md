@@ -1,5 +1,11 @@
 **English** | [中文](README.zh-CN.md)
 
+Sad Burst 2 Website: https://sadburst2.com
+
+Sad Burst 2 Level Editor: https://sadburst2.com/map_editor/
+
+You can edit maps more easily in the Sad Burst 2 Level Editor, such as importing/exporting maps using map codes, account synchronization, etc.
+
 # Sad Level Editor
 
 An agent skill for writing, editing, and fixing **Sad Burst 2 / Plazma Burst 2** map XML.
